@@ -16,7 +16,7 @@
    id="svg4145"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="Title-02.svg">
+   sodipodi:docname="Title-05.svg">
   <defs
      id="defs4147">
     <linearGradient
@@ -573,5 +573,41 @@
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:505.00732422px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#18a303;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1511.2495"
+       y="-1244.0081"
+       id="text4675"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4677"
+         x="1511.2495"
+         y="-1244.0081"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:505.00732422px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#18a303;fill-opacity:1">Progress Cards</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:505.00732422px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#18a303;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="253.04655"
+       y="-456.38498"
+       id="text4675-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4677-6"
+         x="253.04655"
+         y="-456.38498"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:505.00732422px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#18a303;fill-opacity:1">Preparation and Printing</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:505.00732422px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#18a303;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2393.4094"
+       y="331.23804"
+       id="text4675-3-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4677-6-5"
+         x="2393.4094"
+         y="331.23804"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:505.00732422px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#18a303;fill-opacity:1">Using ...</tspan></text>
   </g>
 </svg>
