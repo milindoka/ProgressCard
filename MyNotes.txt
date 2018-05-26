@@ -1,0 +1,24 @@
+Openshot :
+
+Ctrl-L : Keep Left Slice of the clips
+Ctrl-J : Keep Right Slice of the clips
+
+
+To Zoom In/Out : 
+
+Select a Location of final zoom result on clip where your zoom should stop :
+
+Right Click and get Properties Dialog on left side (If it is not already open) 
+
+Use 5 paramenters - Location x , Location y, Postition, Scale x, Scale y to
+
+get file position of screean after zoom
+
+
+Do the same on on starting position
+
+The zoom will move from start position to final posisition.
+
+-----
+
+Tested google translate voice and Speak open source speak aloud chrome extenion. It is FOSS. Speak aloud seems better
