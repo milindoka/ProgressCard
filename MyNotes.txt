@@ -22,3 +22,14 @@ The zoom will move from start position to final posisition.
 -----
 
 Tested google translate voice and Speak open source speak aloud chrome extenion. It is FOSS. Speak aloud seems better
+
+----
+
+Default Clip Properties
+
+Location x = 0
+Location y = 0
+Scale x = 1
+Scale y =1
+position 107.04
+
