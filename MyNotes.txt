@@ -33,3 +33,19 @@ Scale x = 1
 Scale y =1
 position 107.04
 
+
+Magnified Clip Properties 
+Location x = 0.50
+Location y = 0.70
+Scale x = 3
+Scale y =3
+position 0.00
+
+
+
+
+
+
+
+
+

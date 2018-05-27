@@ -1,0 +1,9 @@
+LibreOffice is a powerful office suite – its clean interface and feature-rich tools help you unleash your creativity and enhance your productivity. LibreOffice includes several applications that make it the most powerful Free and Open Source office suite on the market: Writer (word processing), Calc (spreadsheets), Impress (presentations), Draw (vector graphics and flowcharts), Base (databases), and Math (formula editing).
+
+Free as in Freedom, now and forever
+
+LibreOffice is Free and Open Source Software, available for everyone to use, share and modify, and produced by a worldwide community of hundreds of developers. Our software is tested and used daily by a large and devoted user community – we're open to new talent and new ideas, so get involved and influence its future.
+
+----
+
+While Calc saves spreadsheets in its native Open Document Format (.ods), it can also open and save files in Microsoft Excel format for sending to people still locked into Microsoft products. If you only need to make your data readable, but on a wide range of devices and platforms, you can easily export to Portable Document Format (.pdf). Calc can read .xlsx files created with Microsoft Office for Windows and macOS.
