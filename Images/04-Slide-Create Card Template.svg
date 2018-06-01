@@ -15,7 +15,7 @@
    id="svg4220"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="04-Slide-Create Card Template.svg">
+   sodipodi:docname="05-Slide-Create Card Template.svg">
   <defs
      id="defs4222" />
   <sodipodi:namedview
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.087055056"
-     inkscape:cx="3570.3874"
-     inkscape:cy="1111.8117"
+     inkscape:cx="2948.3721"
+     inkscape:cy="2608.5905"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,67 +55,100 @@
      transform="translate(0,2774.4094)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:505.00732422px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#18a303;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="763.1662"
-       y="-2530.842"
+       style="font-style:normal;font-weight:normal;font-size:429.96975708px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#18a303;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1282.038"
+       y="-1259.6196"
        id="text4675"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       transform="scale(1.0222452,0.97823888)"><tspan
          sodipodi:role="line"
-         id="tspan4677"
-         x="763.1662"
-         y="-2530.842"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:505.00732422px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#18a303;fill-opacity:1"></tspan><tspan
-         sodipodi:role="line"
-         x="763.1662"
-         y="-1899.5829"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:505.00732422px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#18a303;fill-opacity:1"
-         id="tspan4139">Create a document</tspan><tspan
-         sodipodi:role="line"
-         x="763.1662"
-         y="-1268.3237"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:505.00732422px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#18a303;fill-opacity:1"
-         id="tspan4141">which will work as</tspan><tspan
-         sodipodi:role="line"
-         x="763.1662"
-         y="-637.06458"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:505.00732422px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#18a303;fill-opacity:1"
-         id="tspan4135">Progress Card</tspan><tspan
-         sodipodi:role="line"
-         x="763.1662"
-         y="-5.8054085"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:505.00732422px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#18a303;fill-opacity:1"
-         id="tspan4137">Template</tspan></text>
+         x="1282.038"
+         y="-1259.6196"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:429.96975708px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#18a303;fill-opacity:1"
+         id="tspan4137">Create a document</tspan></text>
     <rect
-       style="fill:#00ff00;fill-opacity:0;stroke:#00a200;stroke-width:46.79999924;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#00ff00;fill-opacity:0;stroke:#00a200;stroke-width:39.84612274;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4865-3"
-       width="643.27106"
-       height="850.03674"
-       x="4870.4814"
-       y="-1061.2428"
-       ry="103.38284" />
+       width="559.87274"
+       height="707.98297"
+       x="4802.0981"
+       y="-415.32074"
+       ry="86.106033" />
     <rect
-       style="fill:#ffffff;fill-opacity:0.99337751;stroke:#00a200;stroke-width:46.79999924;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:0.99337751;stroke:#00a200;stroke-width:39.84612274;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4865-6"
-       width="643.27106"
-       height="850.03674"
-       x="4755.6113"
-       y="-946.37305"
-       ry="103.38284" />
+       width="559.87274"
+       height="707.98297"
+       x="4702.1206"
+       y="-319.64746"
+       ry="86.106033" />
     <rect
-       style="fill:#ffffff;fill-opacity:0.99337751;stroke:#00a200;stroke-width:46.79999924;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:0.99337751;stroke:#00a200;stroke-width:39.84612274;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4865-6-7"
-       width="643.27106"
-       height="850.03674"
-       x="4617.7676"
-       y="-820.01617"
-       ry="103.38284" />
+       width="559.87274"
+       height="707.98297"
+       x="4582.1479"
+       y="-214.40674"
+       ry="86.106033" />
     <rect
-       style="fill:#ffffff;fill-opacity:0.99337751;stroke:#00a200;stroke-width:46.79999924;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:0.99337751;stroke:#00a200;stroke-width:39.84612274;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4865-6-7-5"
-       width="643.27106"
-       height="850.03674"
-       x="4491.4106"
-       y="-682.17242"
-       ry="103.38284" />
+       width="559.87274"
+       height="707.98297"
+       x="4472.1733"
+       y="-99.598686"
+       ry="86.106033" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:429.96975708px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#18a303;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2698.134"
+       y="-1984.6768"
+       id="text4675-3"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0222452,0.97823888)"><tspan
+         sodipodi:role="line"
+         x="2698.134"
+         y="-1984.6768"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:429.96975708px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#18a303;fill-opacity:1"
+         id="tspan4137-5">Step 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:429.96975708px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#18a303;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1328.7118"
+       y="-730.03375"
+       id="text4675-36"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0222452,0.97823888)"><tspan
+         sodipodi:role="line"
+         x="1328.7118"
+         y="-730.03375"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:429.96975708px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#18a303;fill-opacity:1"
+         id="tspan4137-53">which will work as</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:429.96975708px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#18a303;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1322.4409"
+       y="-168.69574"
+       id="text4675-36-9"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0222452,0.97823888)"><tspan
+         sodipodi:role="line"
+         x="1322.4409"
+         y="-168.69574"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:429.96975708px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#18a303;fill-opacity:1"
+         id="tspan4137-53-2">progress card</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:429.96975708px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#18a303;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1333.9672"
+       y="465.41815"
+       id="text4675-36-7"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0222452,0.97823888)"><tspan
+         sodipodi:role="line"
+         x="1333.9672"
+         y="465.41815"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:429.96975708px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#18a303;fill-opacity:1"
+         id="tspan4137-53-0">template</tspan></text>
   </g>
 </svg>
