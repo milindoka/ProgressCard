@@ -15,7 +15,7 @@
    id="svg4145"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="!086-Then Fail Else Pass.svg">
+   sodipodi:docname="!145-PROMOTED.svg">
   <defs
      id="defs4147">
     <linearGradient
@@ -215,8 +215,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.12"
-     inkscape:cx="3598.3978"
+     inkscape:zoom="0.1"
+     inkscape:cx="2917.7281"
      inkscape:cy="1912.1063"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -235,7 +235,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -247,15 +247,15 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#18a303;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="1246.3319"
+       x="865.19788"
        y="230.15796"
        id="text4675"
        sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          id="tspan4677"
-         x="1246.3319"
+         x="865.19788"
          y="230.15796"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:375px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#18a303;fill-opacity:1">then &quot;FAIL&quot; else &quot;PASS&quot;</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:375px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#18a303;fill-opacity:1">If GC &gt; 0 then &quot;PROMOTED&quot;</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot3391"
