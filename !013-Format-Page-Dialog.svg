@@ -15,7 +15,7 @@
    id="svg4145"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="Format-Page-Dialog.svg">
+   sodipodi:docname="!013-Format-Page-Dialog.svg">
   <defs
      id="defs4147">
     <linearGradient
@@ -215,8 +215,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.14"
-     inkscape:cx="1945.397"
+     inkscape:zoom="0.1"
+     inkscape:cx="3327.5368"
      inkscape:cy="2433.9426"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -247,14 +247,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:375.00732422px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#18a303;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="1637.2548"
-       y="-1966.8154"
+       x="1405.8694"
+       y="-2384.8154"
        id="text4675"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4677"
-         x="1637.2548"
-         y="-1966.8154"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:375.00732422px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#18a303;fill-opacity:1">Menu : Format - Page</tspan></text>
+         x="1405.8694"
+         y="-2384.8154"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:375.00732422px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#18a303;fill-opacity:1">Menu : Format - Cells</tspan></text>
   </g>
 </svg>
